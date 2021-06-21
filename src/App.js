@@ -119,8 +119,8 @@ const styles = {
     // alignItems: 'center',
     // justifyContent: 'center',
     backgroundColor: '#141d2b',
-    height: '100vh',
-    width: '100vw',
+    // height: '100vh',
+    // width: '100vw',
   },
 }
 
